@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm PO CHU(Posche) CHEN</h1>
 <h3 align="center">A passionate data-backend developer from Taiwan</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
