@@ -43,12 +43,11 @@
 
 <h4 align="left">Data Visualization:</h4>
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
-<a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
-<a href="hhttps://powerbi.microsoft.com/zh-tw/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="kibana" width="40" height="40"/> </a>
+<a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> 
+<!-- <a href="hhttps://powerbi.microsoft.com/zh-tw/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> </a> -->
 
 
 <p>
 <img align="center" width="300" src="https://github-readme-stats.vercel.app/api?username=pcchencode&show_icons=true&locale=en" alt="pcchencode" />
-
 <img align="center" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=pcchencode&" alt="pcchencode" />
 </p>
