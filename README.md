@@ -8,8 +8,8 @@
 
 <h4 align="left">Programming Languages:</h4>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="golang" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<!-- <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="golang" width="40" height="40"/> </a> -->
 
 
 <h4 align="left">Database:</h4>
