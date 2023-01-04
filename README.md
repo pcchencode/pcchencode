@@ -5,6 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-pochuchen1228@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pochuchen1228@gmail.com)](mailto:pochuchen1228@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-Po_Chu_Chen-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/po-chu-chen/)](https://www.linkedin.com/in/po-chu-chen/)
 [![Medium Badge](https://img.shields.io/badge/-PC_Chen-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@r04323050)](https://medium.com/@r04323050)
+[![About Badge](https://img.shields.io/badge/-About_Me-purple?style=flat-square&logo=About.me&logoColor=white&link=https://pcchencode.github.io/about/)](https://pcchencode.github.io/about/)
   
 <p>
 <img align="center" width="410" src="https://github-readme-stats.vercel.app/api?username=pcchencode&show_icons=true&locale=en" alt="pcchencode" />
