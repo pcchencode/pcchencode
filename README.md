@@ -7,7 +7,7 @@
 [![Medium Badge](https://img.shields.io/badge/-PC_Chen-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@r04323050)](https://medium.com/@r04323050)
   
 <p>
-<img align="center" width="425" src="https://github-readme-stats.vercel.app/api?username=pcchencode&show_icons=true&locale=en" alt="pcchencode" />
+<img align="center" width="410" src="https://github-readme-stats.vercel.app/api?username=pcchencode&show_icons=true&locale=en" alt="pcchencode" />
 
-<img align="center" width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=pcchencode&" alt="pcchencode" />
+<img align="center" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=pcchencode&" alt="pcchencode" />
 </p>
